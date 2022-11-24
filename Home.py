@@ -14,7 +14,7 @@ def convert_df_to_csv(df):
     return df.to_csv().encode('latin2')
 
 
-st.header('Menu ZK sprawdzam polskie znaki śćśłż')
+st.header('ZK Produkty')
 
 
 # Upload File
